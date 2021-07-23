@@ -18,7 +18,7 @@ ReactDOM.render(
         </>
       }} />
       <Route path="/compteur" component={Compteur} />
-      <Route path="/diction" component={Dicton} />
+      <Route path="/dicton" component={Dicton} />
     </Router>
   </React.StrictMode>,
   document.getElementById('root')
